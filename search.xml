@@ -19,6 +19,15 @@
 ]]></content>
   </entry>
   <entry>
+    <title>我的第一篇博客</title>
+    <url>/2022/01/02/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<p> 2021.12.31 相恋6年的女朋友离开了我，她终究还是食言了。</p>
+]]></content>
+      <tags>
+        <tag>悲伤</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>博客学习笔记</title>
     <url>/2022/01/03/%E5%8D%9A%E5%AE%A2%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<p>0.注意标题里边冒号后面需要加空格</p>
@@ -53,12 +62,12 @@
       </tags>
   </entry>
   <entry>
-    <title>我的第一篇博客</title>
-    <url>/2022/01/02/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<p> 2021.12.31 相恋6年的女朋友离开了我，她终究还是食言了。</p>
+    <title>练习上传图片</title>
+    <url>/2022/01/05/%E7%BB%83%E4%B9%A0%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87/</url>
+    <content><![CDATA[<p><img src="https://s3.bmp.ovh/imgs/2022/01/881261ba018e8e10.jpg"></p>
 ]]></content>
       <tags>
-        <tag>悲伤</tag>
+        <tag>学习</tag>
       </tags>
   </entry>
 </search>

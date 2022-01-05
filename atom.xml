@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-01-03T04:48:10.704Z</updated>
+  <updated>2022-01-05T06:48:45.140Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>练习上传图片</title>
+    <link href="http://example.com/2022/01/05/%E7%BB%83%E4%B9%A0%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87/"/>
+    <id>http://example.com/2022/01/05/%E7%BB%83%E4%B9%A0%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87/</id>
+    <published>2022-01-05T06:44:28.000Z</published>
+    <updated>2022-01-05T06:48:45.140Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://s3.bmp.ovh/imgs/2022/01/881261ba018e8e10.jpg"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://s3.bmp.ovh/imgs/2022/01/881261ba018e8e10.jpg&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="学习" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
   
   <entry>
     <title>博客学习笔记</title>
